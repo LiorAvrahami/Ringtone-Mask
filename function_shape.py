@@ -1,3 +1,5 @@
+## This File Defines The Two Parametters Of The Shape Of The Mask Funtion ##
+
 # time from start to when ringtone starts (during this time the phone only vibrates)
 start_time_seconds = 1
 
