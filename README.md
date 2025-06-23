@@ -1,4 +1,4 @@
-# Ringtone-Mask
+# Ringtone-Mask!
 apply simple mask to ringtone / alarm.
 
 the mask is zero for some time (default 1 second), and then linearly increasing for some time (default 23 seconds)
